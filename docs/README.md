@@ -1,6 +1,6 @@
-# posmlab
-Home for posmlab Github Pages sites
+# Physics of Soft Matter Lab Github
 
-[MATLAB LaMSA Model](https://posmlab.github.io/matlab-lamsa-model/)
-
-[Getting started in posmlab](https://posmlab.github.io/getting-started)
+| Repository | Description | 
+|:----------:|:----------:|
+| [MATLAB LaMSA Model](https://posmlab.github.io/matlab-lamsa-model/) | Open source software for simluating the dynamics of latch-mediated spring actuated (LaMSA) systems |
+| [Getting started in posmlab](https://posmlab.github.io/getting-started) | Instructions for getting started in posmlab if you're interested in joining the group |
